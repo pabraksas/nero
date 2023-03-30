@@ -140,6 +140,12 @@
   },
   "active": "ade2db6313316c19",
   "lastOpenFiles": [
+    "__in/app.json",
+    "__in/appearance.json",
+    "__in/core-plugins-migration.json",
+    "__in/core-plugins.json",
+    "__in/hotkeys.json",
+    "__in/workspace-mobile.json",
     "__in"
   ]
 }
