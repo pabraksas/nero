@@ -10,5 +10,6 @@
   ],
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "-- media/-- attachment",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
