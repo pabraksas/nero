@@ -9,5 +9,6 @@
     "ru"
   ],
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "-- media/-- attachment"
+  "attachmentFolderPath": "-- media/-- attachment",
+  "useMarkdownLinks": true
 }
