@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25277e7678e6c488",
+        "id": "584370f9554e9e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "248d63eefb6b7958",
+            "id": "6eae776e84701a9a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,6 +120,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "fdbc17aea7d9efef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -135,11 +143,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ade2db6313316c19",
+  "active": "6eae776e84701a9a",
   "lastOpenFiles": [
+    "-- in/прокачиваем исследователя - SciSkillUp.md",
+    "-- in/нейронки - research.md",
+    "-- in/Как настроить синхронизацию хранилища Obsidian бесплатно при помощи Git.md",
+    "-- in/асгарды.md",
+    "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
+    "__in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
+    "__in/асгарды.md",
+    "README.md",
+    "ch.2 - Создаём сагу - Комикс.md",
+    "ch.1 - Создаём сагу - Сценарий.md",
+    "ch.0 - Создаём сагу - План.md",
+    "__in/Как настроить синхронизацию хранилища Obsidian бесплатно при помощи Git.md",
+    "knowledge",
     "__in/app.json",
     "__in/appearance.json",
     "__in/core-plugins-migration.json",

@@ -17,6 +17,8 @@
 # .obsidian/**/*
 .obsidian/
 .trash/
+.stfolder/
+.stversions/
 
 # --- Mac --- #
 

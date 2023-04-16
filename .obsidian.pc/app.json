@@ -1,1 +1,13 @@
-{}
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "-- in",
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "-- media/-- attachment"
+}
