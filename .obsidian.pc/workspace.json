@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start here.md",
+                "file": "ch.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "start here.md",
+                "file": "ch.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "start here.md",
+                "file": "ch.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "start here.md"
+                "file": "ch.1.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
-    "README.md",
+    "ch.2.md",
+    "ch.1.md",
+    "ch.0.md",
     "start here.md",
+    "README.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",
@@ -194,9 +197,6 @@
     "-- media/-- templates/Admonition/Ad-Question.md",
     "-- media/-- templates/Admonition/Ad-Note.md",
     "-- media/-- templates/Admonition/Ad-Missing.md",
-    "-- media/-- templates/Admonition/Ad-Info.md",
-    "-- media/-- templates/Admonition/Ad-Important.md",
-    "-- media/-- templates/Admonition/Ad-Hint.md",
-    "-- media/-- templates/Admonition/Ad-Help.md"
+    "-- media/-- templates/Admonition/Ad-Info.md"
   ]
 }
