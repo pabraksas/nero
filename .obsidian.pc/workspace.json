@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "start here.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "start here.md"
               }
             }
           },
@@ -159,27 +159,44 @@
   },
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
-    "ch.0.md",
-    "ch.1.md",
     "README.md",
-    "ch.2.md",
-    "knowledge/Midjourney Prompts Master Guide.pdf",
-    "knowledge/Chat GPT и Революция ИИ.pdf",
-    "knowledge/ChatGPT.Prompts.Mastering.pdf",
-    "-- in/нейронки - research.md",
-    "-- in/прокачиваем исследователя - SciSkillUp.md",
-    "-- in/Как настроить синхронизацию хранилища Obsidian бесплатно при помощи Git.md",
-    "-- in/асгарды.md",
-    "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
-    "__in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
-    "__in/асгарды.md",
-    "__in/Как настроить синхронизацию хранилища Obsidian бесплатно при помощи Git.md",
-    "knowledge",
-    "__in/app.json",
-    "__in/appearance.json",
-    "__in/core-plugins-migration.json",
-    "__in/core-plugins.json",
-    "__in/hotkeys.json",
-    "__in/workspace-mobile.json"
+    "start here.md",
+    "-- in/obsidian-vault-changelog-main/versions.json",
+    "-- in/obsidian-vault-changelog-main/tsconfig.json",
+    "-- in/obsidian-vault-changelog-main/rollup.config.js",
+    "-- in/obsidian-vault-changelog-main/resources/demo.png",
+    "-- in/obsidian-vault-changelog-main/resources/demo-embedded.png",
+    "-- in/obsidian-vault-changelog-main/resources",
+    "-- in/obsidian-vault-changelog-main/package.json",
+    "-- in/obsidian-vault-changelog-main/manifest.json",
+    "-- in/obsidian-vault-changelog-main/manifest-beta.json",
+    "-- in/obsidian-vault-changelog-main/main.ts",
+    "-- in/obsidian-vault-changelog-main/main.js",
+    "-- in/obsidian-vault-changelog-main/README.md",
+    "-- in/obsidian-vault-changelog-main",
+    "-- media/-- templates/Rename File.md",
+    "-- media/-- templates/Input/Pick an Embed.md",
+    "-- media/-- templates/Formatting/Highlightr.md",
+    "-- media/-- templates/Clipboard/Clipboard Local Video.md",
+    "-- media/-- templates/Clipboard/Clipboard Local Audio.md",
+    "-- media/-- templates/Clipboard/Clipboard Internal Image.md",
+    "-- media/-- templates/Clipboard/Clipboard Image.md",
+    "-- media/-- templates/Clipboard/Clipboard Figure.md",
+    "-- media/-- templates/Clipboard/Clipboard Figcaption.md",
+    "-- media/-- templates/assets/highlightr.gif",
+    "-- media/-- templates/Admonition/Admonition.md",
+    "-- media/-- templates/Admonition/Ad-Warning.md",
+    "-- media/-- templates/Admonition/Ad-Todo.md",
+    "-- media/-- templates/Admonition/Ad-Tip.md",
+    "-- media/-- templates/Admonition/Ad-Summary.md",
+    "-- media/-- templates/Admonition/Ad-Success.md",
+    "-- media/-- templates/Admonition/Ad-Quote.md",
+    "-- media/-- templates/Admonition/Ad-Question.md",
+    "-- media/-- templates/Admonition/Ad-Note.md",
+    "-- media/-- templates/Admonition/Ad-Missing.md",
+    "-- media/-- templates/Admonition/Ad-Info.md",
+    "-- media/-- templates/Admonition/Ad-Important.md",
+    "-- media/-- templates/Admonition/Ad-Hint.md",
+    "-- media/-- templates/Admonition/Ad-Help.md"
   ]
 }

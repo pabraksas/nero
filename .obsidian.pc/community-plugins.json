@@ -9,5 +9,6 @@
   "obsidian-outliner",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-auto-link-title",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-dynamic-toc"
 ]
