@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.1.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.1.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.1.md"
+                "file": "ch.3 Создаём сагу - Видео.md"
               }
             }
           },
@@ -159,11 +159,15 @@
   },
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
-    "ch.2.md",
-    "ch.1.md",
-    "ch.0.md",
-    "start here.md",
     "README.md",
+    "ch.3 Создаём сагу - Видео.md",
+    "ch.2 Создаём сагу - Комикс.md",
+    "ch.1 Создаём сагу - Сценарий.md",
+    "ch.0 Создаём сагу - План.md",
+    "-- in/прокачиваем исследователя - SciSkillUp.md",
+    "-- in/асгарды.md",
+    "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
+    "start here.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",
@@ -193,10 +197,6 @@
     "-- media/-- templates/Admonition/Ad-Tip.md",
     "-- media/-- templates/Admonition/Ad-Summary.md",
     "-- media/-- templates/Admonition/Ad-Success.md",
-    "-- media/-- templates/Admonition/Ad-Quote.md",
-    "-- media/-- templates/Admonition/Ad-Question.md",
-    "-- media/-- templates/Admonition/Ad-Note.md",
-    "-- media/-- templates/Admonition/Ad-Missing.md",
-    "-- media/-- templates/Admonition/Ad-Info.md"
+    "-- media/-- templates/Admonition/Ad-Quote.md"
   ]
 }
