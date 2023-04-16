@@ -24,13 +24,13 @@
   "obsidian-editor-shortcuts:joinLines": [],
   "obsidian-editor-shortcuts:selectAllOccurrences": [],
   "obsidian-editor-shortcuts:addCursorsToSelectionEnds": [],
-  "obsidian-git:push": [],
-  "obsidian-git:backup-and-close": [
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "="
     }
-  ]
+  ],
+  "obsidian-git:backup-and-close": []
 }
