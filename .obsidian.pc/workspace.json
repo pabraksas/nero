@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ch.1 - Создаём сагу - Сценарий.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ch.1 - Создаём сагу - Сценарий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ch.1 - Создаём сагу - Сценарий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ch.1 - Создаём сагу - Сценарий.md"
               }
             }
           },
@@ -160,13 +160,13 @@
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
     "ch.0 - Создаём сагу - План.md",
+    "ch.2 - Создаём сагу - Комикс.md",
     "ch.1 - Создаём сагу - Сценарий.md",
+    "README.md",
     "knowledge/Midjourney Prompts Master Guide.pdf",
     "knowledge/Chat GPT и Революция ИИ.pdf",
     "knowledge/ChatGPT.Prompts.Mastering.pdf",
     "-- in/нейронки - research.md",
-    "README.md",
-    "ch.2 - Создаём сагу - Комикс.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
     "-- in/Как настроить синхронизацию хранилища Obsidian бесплатно при помощи Git.md",
     "-- in/асгарды.md",
