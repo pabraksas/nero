@@ -29,9 +29,9 @@
 
 ## О сюжетах и драматургии
 
-- Подкаст (1ч34мин): [Тысячеликий герой: почему все истории одинаковые?](https://www.youtube.com/watch?v=1859P8aGKBs)
+- Подкаст: [Тысячеликий герой: почему все истории одинаковые?](https://www.youtube.com/watch?v=1859P8aGKBs)  (1ч34мин)
 
-- Тысячеликий герой(Кэмпбелл Дж.): [eBook](https://rutracker.org/forum/viewtopic.php?t=5756923)  [Mp3](https://rutracker.org/forum/viewtopic.php?t=5490354)
+- Тысячеликий герой (Кэмпбелл Дж.): [eBook](https://rutracker.org/forum/viewtopic.php?t=5756923)  [Mp3](https://rutracker.org/forum/viewtopic.php?t=5490354)
 
 - Морфология волшебной сказки. Исторические корни волшебной сказки (Пропп В.): [eBook](https://rutracker.org/forum/viewtopic.php?t=6322826)  [Mp3](https://rutracker.org/forum/viewtopic.php?t=6074786)
 
