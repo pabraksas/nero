@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.1 Создаём сагу - Сценарий.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.1 Создаём сагу - Сценарий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.1 Создаём сагу - Сценарий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md"
+                "file": "ch.1 Создаём сагу - Сценарий.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
-    "-- in/Инструкция создания prompts для Midjourney V5 с помощью GPT-3,4.md",
     "ch.0 Создаём сагу - План.md",
+    "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
+    "-- in/Инструкция создания prompts для Midjourney V5 с помощью GPT-3,4.md",
     "README.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "ch.3 Создаём сагу - Видео.md",
@@ -196,7 +197,6 @@
     "-- media/-- templates/Admonition/Ad-Warning.md",
     "-- media/-- templates/Admonition/Ad-Todo.md",
     "-- media/-- templates/Admonition/Ad-Tip.md",
-    "-- media/-- templates/Admonition/Ad-Summary.md",
-    "-- media/-- templates/Admonition/Ad-Success.md"
+    "-- media/-- templates/Admonition/Ad-Summary.md"
   ]
 }

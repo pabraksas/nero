@@ -29,22 +29,23 @@
 
 ## О сюжетах и драматургии
 
-Подкаст (1ч34мин): [Тысячеликий герой: почему все истории одинаковые?](https://www.youtube.com/watch?v=1859P8aGKBs)
+- Подкаст (1ч34мин): [Тысячеликий герой: почему все истории одинаковые?](https://www.youtube.com/watch?v=1859P8aGKBs)
 
-eBook: [Тысячеликий герой(Кэмпбелл Дж.)](https://rutracker.org/forum/viewtopic.php?t=5756923)
-Mp3: [Тысячеликий герой(Кэмпбелл Дж.)](https://rutracker.org/forum/viewtopic.php?t=5490354)
+- eBook: [Тысячеликий герой(Кэмпбелл Дж.)](https://rutracker.org/forum/viewtopic.php?t=5756923)
+- Mp3: [Тысячеликий герой(Кэмпбелл Дж.)](https://rutracker.org/forum/viewtopic.php?t=5490354)
 
-eBook: [Морфология волшебной сказки. Исторические корни волшебной сказки (Пропп В.)](https://rutracker.org/forum/viewtopic.php?t=6322826)
-Mp3: [Морфология волшебной сказки. Исторические корни волшебной сказки (Пропп В.)](https://rutracker.org/forum/viewtopic.php?t=6074786)
-[Путешествие писателя. Мифологические структуры в литературе и кино (Воглер К.)](https://rutracker.org/forum/viewtopic.php?t=5756860)*киносценарии*
+- eBook: [Морфология волшебной сказки. Исторические корни волшебной сказки (Пропп В.)](https://rutracker.org/forum/viewtopic.php?t=6322826)
+- Mp3: [Морфология волшебной сказки. Исторические корни волшебной сказки (Пропп В.)](https://rutracker.org/forum/viewtopic.php?t=6074786)
 
-[История на миллион долларов (Макки Р.)](https://rutracker.org/forum/viewtopic.php?t=5425996) *учебник для сценаристов*
+- [Путешествие писателя. Мифологические структуры в литературе и кино (Воглер К.)](https://rutracker.org/forum/viewtopic.php?t=5756860)*киносценарии*
+
+- [История на миллион долларов (Макки Р.)](https://rutracker.org/forum/viewtopic.php?t=5425996) *учебник для сценаристов*
 
 
 ## Готовые примеры запросов (*промтов*) для языковой модели.
 
-[ChatGPT Prompts Mastering](https://github.com/pabraksas/nero/blob/main/knowledge/ChatGPT.Prompts.Mastering.pdf)
-[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-[ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [ChatGPT Prompts Mastering](https://github.com/pabraksas/nero/blob/main/knowledge/ChatGPT.Prompts.Mastering.pdf)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 
