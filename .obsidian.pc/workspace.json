@@ -159,8 +159,9 @@
   },
   "active": "d5a26590c0dca35c",
   "lastOpenFiles": [
-    "README.md",
+    "-- in/Инструкция создания prompts для Midjourney V5 с помощью GPT-3,4.md",
     "ch.0 Создаём сагу - План.md",
+    "README.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "ch.3 Создаём сагу - Видео.md",
     "ch.2 Создаём сагу - Комикс.md",
@@ -196,7 +197,6 @@
     "-- media/-- templates/Admonition/Ad-Todo.md",
     "-- media/-- templates/Admonition/Ad-Tip.md",
     "-- media/-- templates/Admonition/Ad-Summary.md",
-    "-- media/-- templates/Admonition/Ad-Success.md",
-    "-- media/-- templates/Admonition/Ad-Quote.md"
+    "-- media/-- templates/Admonition/Ad-Success.md"
   ]
 }

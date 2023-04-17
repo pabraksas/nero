@@ -33,5 +33,15 @@
       "key": "="
     }
   ],
-  "obsidian-git:backup-and-close": []
+  "obsidian-git:backup-and-close": [],
+  "obsidian-admonition:insert-admonition": [],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
 }
