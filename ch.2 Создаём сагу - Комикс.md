@@ -9,4 +9,8 @@
 В результате должна получиться "раскадровка" для фильма/мультфильма. 
 А если наложить еще диалоги, получим комикс.
 
+---
 
+- [Midjourney Prompts Master Guide](/knowledge/Midjourney%20Prompts%20Master%20Guide.pdf "Midjourney Prompts Master Guide.pdf")
+
+- [MidJourney-Reference – справочник, содержащий стили и ключевые слова для MidJourney](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) 
