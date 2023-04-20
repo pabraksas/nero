@@ -21,7 +21,7 @@
  
 
 ## Как получить доступ к chatGPT в России
-https://habr.com/ru/articles/704600/
+подробная статья на Хабре: https://habr.com/ru/articles/704600/
 
 
 ## Let's go..
