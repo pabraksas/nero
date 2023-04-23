@@ -45,6 +45,24 @@
       "id": "cmenu-plugin:editor:toggle-blockquote",
       "name": "cMenu: Toggle blockquote",
       "icon": "quote-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-link",
+      "name": "cMenu: Insert markdown link",
+      "icon": "link-glyph"
+    },
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "name": "Templater: Create new note from template",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "n"
+        }
+      ],
+      "icon": "bracket-glyph"
     }
   ],
   "appendMethod": "workspace",
