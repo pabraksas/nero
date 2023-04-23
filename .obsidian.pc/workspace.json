@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "094c115e0b7f1393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "ch.0 Создаём сагу - План.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ch.0 Создаём сагу - План.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ch.0 Создаём сагу - План.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ch.0 Создаём сагу - План.md"
               }
             }
           },
@@ -170,15 +157,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "094c115e0b7f1393",
+  "active": "17b1cd96e7eb6f7a",
   "lastOpenFiles": [
-    "-- in/Выступление в клубе коперайтеров.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "ch.2 Создаём сагу - Комикс.md",
-    "knowledge/Midjourney Prompts Master Guide.pdf",
-    "README.md",
-    "ch.3 Создаём сагу - Видео.md",
     "ch.0 Создаём сагу - План.md",
+    "-- in/ch.1 Создаём сагу - Комикс.md",
+    "-- in/Выступление в клубе коперайтеров.md",
+    "README.md",
+    "knowledge/Midjourney Prompts Master Guide.pdf",
+    "ch.3 Создаём сагу - Видео.md",
     "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
     "-- in/Инструкция создания prompts для Midjourney V5 с помощью GPT-3,4.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
@@ -209,7 +197,6 @@
     "-- media/-- templates/assets/highlightr.gif",
     "-- media/-- templates/Admonition/Admonition.md",
     "-- media/-- templates/Admonition/Ad-Warning.md",
-    "-- media/-- templates/Admonition/Ad-Todo.md",
-    "-- media/-- templates/Admonition/Ad-Tip.md"
+    "-- media/-- templates/Admonition/Ad-Todo.md"
   ]
 }
