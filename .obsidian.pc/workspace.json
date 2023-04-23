@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md",
+                "file": "ch.3 Создаём сагу - Видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.0 Создаём сагу - План.md"
+                "file": "ch.3 Создаём сагу - Видео.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "17b1cd96e7eb6f7a",
   "lastOpenFiles": [
-    "ch.1 Создаём сагу - Сценарий.md",
     "ch.2 Создаём сагу - Комикс.md",
     "ch.0 Создаём сагу - План.md",
+    "ch.1 Создаём сагу - Сценарий.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/Выступление в клубе коперайтеров.md",
     "README.md",
