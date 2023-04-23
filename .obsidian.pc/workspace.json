@@ -159,11 +159,13 @@
   },
   "active": "17b1cd96e7eb6f7a",
   "lastOpenFiles": [
+    "knowledge/Chat GPT и Революция ИИ.pdf",
+    "-- in/Пожелания.md",
+    "ch.1 Создаём сагу - Сценарий.md",
     "README.md",
     "ch.3 Создаём сагу - Видео.md",
     "ch.2 Создаём сагу - Комикс.md",
     "ch.0 Создаём сагу - План.md",
-    "ch.1 Создаём сагу - Сценарий.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/Выступление в клубе коперайтеров.md",
     "knowledge/Midjourney Prompts Master Guide.pdf",
@@ -195,8 +197,6 @@
     "-- media/-- templates/Clipboard/Clipboard Figure.md",
     "-- media/-- templates/Clipboard/Clipboard Figcaption.md",
     "-- media/-- templates/assets/highlightr.gif",
-    "-- media/-- templates/Admonition/Admonition.md",
-    "-- media/-- templates/Admonition/Ad-Warning.md",
-    "-- media/-- templates/Admonition/Ad-Todo.md"
+    "-- media/-- templates/Admonition/Admonition.md"
   ]
 }
