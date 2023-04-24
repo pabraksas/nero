@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/resources.md",
+                "file": "START.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/resources.md",
+                "file": "START.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/resources.md",
+                "file": "START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/resources.md"
+                "file": "START.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "9041c7cf07e8360a",
   "lastOpenFiles": [
-    "knowledge/Ресурсы для prompt engineering.md",
     "knowledge/resources.md",
+    "knowledge/Ресурсы для prompt engineering.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "knowledge/Регистрация-GPT.md",
     "START.md",
