@@ -16,7 +16,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "ch.2 Создаём сагу - Комикс.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -138,12 +138,21 @@
                   "type": "calendar",
                   "state": {}
                 }
+              },
+              {
+                "id": "b8d0a87a7ce4d827",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
-        "width": 300,
+        "width": 324.5,
         "collapsed": true
       },
       "left-ribbon": {
@@ -164,9 +173,7 @@
       "active": "088934868a87eaf2",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "/",
-          "-- in",
-          "knowledge"
+          "/"
         ]
       }
     },

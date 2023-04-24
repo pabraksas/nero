@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ch.2 Создаём сагу - Комикс.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -136,12 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b8d0a87a7ce4d827",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 324.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,10 +168,11 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "088934868a87eaf2",
+  "active": "b8d0a87a7ce4d827",
   "lastOpenFiles": [
-    "knowledge/ChatGPT.Prompts.Mastering.pdf",
+    "knowledge/Kandinsky.md",
     "ch.2 Создаём сагу - Комикс.md",
+    "knowledge/ChatGPT.Prompts.Mastering.pdf",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "-- in/клуб коперайтеров.md",
@@ -170,7 +180,6 @@
     "ch.3 Создаём сагу - Видео.md",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
     "knowledge/chatGPT.some.prompts.md",
-    "knowledge/Kandinsky.md",
     "knowledge/Ресурсы для prompt engineering.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "ch.0 Создаём сагу - План.md",
