@@ -1,4 +1,3 @@
-12 апреля
 
 ![Фото создано Midjourney V5](https://avatars.dzeninfra.ru/get-zen_doc/9662441/pub_64350ac65951555cfad2100f_64350ad634531801e9a080ff/scale_1200)
 
@@ -55,24 +54,3 @@ _- cheeseburger with lettuce and tomato on a sesame bun, close-up shot, deliciou
 -   fashion photography magazine 1950s style, photo of a glamorous woman in a red dress and hat posing on a staircase, elegant and sophisticated, black and white with a touch of color, headline and logo --ar 8:11 --stylize 50
 -   fashion photography magazine 1950s style, photo of a group of young women in colorful skirts and sweaters having fun at a diner, cheerful and lively, retro and nostalgic, headline and logo --ar 11:8 --s 500
 -   fashion photography magazine 1950s style, photo of a chic woman in a black suit and sunglasses walking on a busy street, confident and stylish, realistic and warm lighting, headline and logo --ar 3:4 --q 2
-
-**Как подключиться к ChatGPT из России?**
-
-Для того чтобы зарегистрироваться на сайте OpenAI из России, нужно выполнить следующие шаги:
-
-·        Необходимо подключить **VPN**
-
-·        Регистрируйтесь в сервисе тут >> [**https://Onlinesim.io**](https://onlinesim.io/?ref=3447940) для получения виртуального номера телефона другой страны чтобы получить смс от OpenAI
-
-·        Перейти на сайт OpenAI - [**https://openai.com/**](https://openai.com/) .
-
-·        Нажать на кнопку **"Sign up"** в правом верхнем углу страницы.
-
-·        Заполнить форму регистрации, указав свой **email, виртуальный номер и пароль** для создания учетной записи.
-
-·        Подтвердить свой email, перейдя по ссылке в письме, которое было отправлено на указанный email.
-
-·        После подтверждения email, следуйте инструкциям для завершения процесса регистрации
-
-Теперь ваш аккаунт создан и подтвержден, можете начинать пользоваться полноценно. Для подключения чата используйте данную ссылку [**https://chat.openai.com/chat**](https://chat.openai.com/chat)
-

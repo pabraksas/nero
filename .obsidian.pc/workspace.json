@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebab108c0b72b74b",
+        "id": "39c33e6cad52bebc",
         "type": "tabs",
         "children": [
           {
-            "id": "8842a61d6e54da38",
+            "id": "9041c7cf07e8360a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md"
+                "file": "knowledge/resources.md"
               }
             }
           },
@@ -157,11 +157,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8842a61d6e54da38",
+  "active": "9041c7cf07e8360a",
   "lastOpenFiles": [
-    "README.md",
+    "knowledge/Ресурсы для prompt engineering.md",
+    "knowledge/resources.md",
     "ch.1 Создаём сагу - Сценарий.md",
+    "knowledge/Регистрация-GPT.md",
+    "START.md",
+    "README.md",
+    "-- in/SOTA.md",
     "ch.2 Создаём сагу - Комикс.md",
+    "knowledge/Kandinsky.md",
+    "knowledge/Методики по эффективному дообучению  языковых моделей.md",
+    "knowledge/Создание prompts для Midjourney V5 с помощью GPT-3,4.md",
     "-- in/Выступление в клубе коперайтеров.md",
     "-- in/Студенты.md",
     "-- media/-- attachments",
@@ -174,7 +182,6 @@
     "-- in/Пожелания.md",
     "ch.3 Создаём сагу - Видео.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
-    "-- in/Инструкция создания prompts для Midjourney V5 с помощью GPT-3,4.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
     "-- in/асгарды.md",
     "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
@@ -190,13 +197,6 @@
     "-- in/obsidian-vault-changelog-main/README.md",
     "-- media/-- templates/Rename File.md",
     "-- media/-- templates/Input/Pick an Embed.md",
-    "-- media/-- templates/Formatting/Highlightr.md",
-    "-- media/-- templates/Clipboard/Clipboard Local Video.md",
-    "-- media/-- templates/Clipboard/Clipboard Local Audio.md",
-    "-- media/-- templates/Clipboard/Clipboard Internal Image.md",
-    "-- media/-- templates/Clipboard/Clipboard Image.md",
-    "-- media/-- templates/Clipboard/Clipboard Figure.md",
-    "-- media/-- templates/Clipboard/Clipboard Figcaption.md",
     "-- media/-- templates/assets/highlightr.gif"
   ]
 }
