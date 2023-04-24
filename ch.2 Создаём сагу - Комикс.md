@@ -21,3 +21,5 @@
 
 - [Image Upscaler](https://ai.nero.com/enhance)
 
+- [Увеличивайте изображения без потери качества](https://ru.depositphotos.com/upscaler.html)
+

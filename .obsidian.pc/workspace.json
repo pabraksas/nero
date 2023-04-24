@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39c33e6cad52bebc",
+        "id": "8940935dc4e393ae",
         "type": "tabs",
         "children": [
           {
-            "id": "9041c7cf07e8360a",
+            "id": "088934868a87eaf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ch.2 Создаём сагу - Комикс.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ch.2 Создаём сагу - Комикс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ch.2 Создаём сагу - Комикс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ch.2 Создаём сагу - Комикс.md"
+              }
             }
           },
           {
@@ -151,12 +159,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "ade2db6313316c19",
+  "active": "088934868a87eaf2",
   "lastOpenFiles": [
-    "ch.1 Создаём сагу - Сценарий.md",
-    "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
-    "-- in/клуб коперайтеров.md",
+    "knowledge/ChatGPT.Prompts.Mastering.pdf",
     "ch.2 Создаём сагу - Комикс.md",
+    "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
+    "ch.1 Создаём сагу - Сценарий.md",
+    "-- in/клуб коперайтеров.md",
     "START.md",
     "ch.3 Создаём сагу - Видео.md",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
@@ -176,13 +185,11 @@
     "-- in/нейронки - research.md",
     "knowledge/ChatGPT.и.Революция.ИИ.pdf",
     "knowledge/Midjourney.Prompts.Master.Guide.pdf",
-    "knowledge/ChatGPT.Prompts.Mastering.pdf",
     "-- in/Пожелания.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
     "-- in/асгарды.md",
     "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
-    "start here.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",

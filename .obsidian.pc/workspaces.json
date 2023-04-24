@@ -6,15 +6,19 @@
         "type": "split",
         "children": [
           {
-            "id": "39c33e6cad52bebc",
+            "id": "8940935dc4e393ae",
             "type": "tabs",
             "children": [
               {
-                "id": "9041c7cf07e8360a",
+                "id": "088934868a87eaf2",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "ch.2 Создаём сагу - Комикс.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -83,6 +87,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "ch.2 Создаём сагу - Комикс.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "ch.2 Создаём сагу - Комикс.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -120,7 +126,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "ch.2 Создаём сагу - Комикс.md"
+                  }
                 }
               },
               {
@@ -153,11 +161,12 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "ade2db6313316c19",
+      "active": "088934868a87eaf2",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "/",
-          "-- media/-- attachments"
+          "-- in",
+          "knowledge"
         ]
       }
     },
