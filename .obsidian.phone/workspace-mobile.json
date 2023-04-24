@@ -11,8 +11,12 @@
             "id": "038a54930593b9fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "ch.1 Создаём сагу - Сценарий.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "ch.1 Создаём сагу - Сценарий.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "ch.1 Создаём сагу - Сценарий.md"
+          }
         }
       }
     ],
@@ -124,5 +132,7 @@
     }
   },
   "active": "038a54930593b9fa",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Сага.abraksas.md"
+  ]
 }

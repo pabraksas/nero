@@ -1,0 +1,31 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": true,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "trashOption": "local",
+    "newFileLocation": "folder",
+    "newFileFolderPath": "-- in",
+    "showFrontmatter": true,
+    "spellcheck": true,
+    "spellcheckLanguages": [
+      "en-US",
+      "ru"
+    ],
+    "newLinkFormat": "shortest",
+    "attachmentFolderPath": "-- media/-- attachment",
+    "useMarkdownLinks": true,
+    "alwaysUpdateLinks": true,
+    "promptDelete": false
+  },
+  "activeWorkspaceDesktop": "def",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": true,
+  "modeSwitcherRibbon": true,
+  "replaceNativeRibbon": true
+}

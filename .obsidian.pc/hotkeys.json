@@ -1,13 +1,5 @@
 {
-  "editor:delete-paragraph": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
+  "editor:delete-paragraph": [],
   "obsidian-editor-shortcuts:duplicateLine": [
     {
       "modifiers": [
@@ -43,5 +35,7 @@
       ],
       "key": "A"
     }
-  ]
+  ],
+  "cmenu-plugin:editor:insert-tag": [],
+  "workspace:undo-close-pane": []
 }

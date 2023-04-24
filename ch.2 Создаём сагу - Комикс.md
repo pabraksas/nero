@@ -17,4 +17,7 @@
 
 - [MidJourney-Reference – справочник, содержащий стили и ключевые слова для MidJourney](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) 
 
-- [Создание prompts для Midjourney V5 с помощью GPT-3,4](Создание%20prompts%20для%20Midjourney%20V5%20с%20помощью%20GPT-3,4.md)
+- [Промты для Midjourney V5 при помощи GPT-3,4](Промты%20для%20Midjourney%20V5%20при%20помощи%20GPT-3,4.md)
+
+- [Image Upscaler](https://ai.nero.com/enhance)
+

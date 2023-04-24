@@ -6,15 +6,19 @@
         "type": "split",
         "children": [
           {
-            "id": "39c33e6cad52bebc",
+            "id": "f027303745f3e528",
             "type": "tabs",
             "children": [
               {
-                "id": "9041c7cf07e8360a",
+                "id": "d5a26590c0dca35c",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "start here.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -67,7 +71,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 275.5086555480957
+        "width": 300
       },
       "right": {
         "id": "9e059ab14aaf620c",
@@ -83,6 +87,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "start here.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "start here.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -120,7 +126,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "start here.md"
+                  }
                 }
               },
               {
@@ -140,7 +148,6 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "markdown-importer:Open format converter": false,
           "audio-recorder:Start/stop recording": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -149,17 +156,10 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false,
-          "templater-obsidian:Templater": false,
-          "workspaces-plus:Manage workspaces": false
+          "templater-obsidian:Templater": false
         }
       },
-      "active": "ade2db6313316c19",
-      "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "/",
-          "-- media/-- attachments"
-        ]
-      }
+      "active": "d5a26590c0dca35c"
     },
     "ext": {
       "main": {

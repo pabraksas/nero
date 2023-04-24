@@ -1,5 +1,5 @@
 {
-  "commitMessage": "backup: {{date}}",
+  "commitMessage": "#upd:{{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 3,
@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "backup: {{date}}"
+  "autoCommitMessage": "#upd:{{date}}"
 }

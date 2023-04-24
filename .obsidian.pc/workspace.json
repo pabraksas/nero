@@ -11,12 +11,8 @@
             "id": "9041c7cf07e8360a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "START.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "START.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -154,23 +147,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "9041c7cf07e8360a",
+  "active": "ade2db6313316c19",
   "lastOpenFiles": [
-    "knowledge/resources.md",
-    "knowledge/Ресурсы для prompt engineering.md",
     "ch.1 Создаём сагу - Сценарий.md",
-    "knowledge/Регистрация-GPT.md",
-    "START.md",
-    "README.md",
-    "-- in/SOTA.md",
+    "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
+    "-- in/клуб коперайтеров.md",
     "ch.2 Создаём сагу - Комикс.md",
+    "START.md",
+    "ch.3 Создаём сагу - Видео.md",
+    "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
+    "knowledge/chatGPT.some.prompts.md",
     "knowledge/Kandinsky.md",
+    "knowledge/Ресурсы для prompt engineering.md",
+    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+    "ch.0 Создаём сагу - План.md",
+    "README.md",
+    "knowledge/resources.md",
+    "knowledge/Регистрация-GPT.md",
+    "-- in/SOTA.md",
     "knowledge/Методики по эффективному дообучению  языковых моделей.md",
-    "knowledge/Создание prompts для Midjourney V5 с помощью GPT-3,4.md",
-    "-- in/Выступление в клубе коперайтеров.md",
     "-- in/Студенты.md",
     "-- media/-- attachments",
     "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
@@ -178,9 +177,7 @@
     "knowledge/ChatGPT.и.Революция.ИИ.pdf",
     "knowledge/Midjourney.Prompts.Master.Guide.pdf",
     "knowledge/ChatGPT.Prompts.Mastering.pdf",
-    "ch.0 Создаём сагу - План.md",
     "-- in/Пожелания.md",
-    "ch.3 Создаём сагу - Видео.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
     "-- in/асгарды.md",
@@ -194,9 +191,6 @@
     "-- in/obsidian-vault-changelog-main/resources",
     "-- in/obsidian-vault-changelog-main/package.json",
     "-- in/obsidian-vault-changelog-main/manifest.json",
-    "-- in/obsidian-vault-changelog-main/README.md",
-    "-- media/-- templates/Rename File.md",
-    "-- media/-- templates/Input/Pick an Embed.md",
     "-- media/-- templates/assets/highlightr.gif"
   ]
 }
