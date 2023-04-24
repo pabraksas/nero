@@ -32,12 +32,16 @@
 - [История на миллион долларов (Макки Р.)](https://rutracker.org/forum/viewtopic.php?t=5425996) *учебник для сценаристов*
 
 
-## Как получить доступ к chatGPT в России
+## Регистрация chatGPT
 
-Подробная статья на Хабре: https://habr.com/ru/articles/704600/
-Не используйте российские почтовики ~~mail.ru~~ ~~yandex.ru~~ и т.д.
-Если не планируете платный аккаунт, то вполне пойдёт [временный почтовый ящик](https://temp-mail.org), он будет использоваться в качестве логина.
-[openai login](https://chat.openai.com/auth/login)
+Подробная [статья на Хабре](https://habr.com/ru/articles/704600/) 'Как получить доступ к chatGPT в России'
+*Не используйте российские почтовики ~~mail.ru~~ ~~yandex.ru~~ и т.д.*
+*Если не планируете платный аккаунт, то вполне пойдёт [временный почтовый ящик](https://temp-mail.org), он будет использоваться в качестве логина*
+
+- [chatGPT login](https://chat.openai.com/auth/login)
+- [временный почтовый ящик](https://temp-mail.org)
+- [SMS-Activate](https://sms-activate.org/) 
+- [onlinesim](https://onlinesim.io/)
 
 
 ## *Как создать идеальный запрос для ChatGPT?* 
@@ -70,7 +74,7 @@
 - [A Complete Guide to Mastering Effective Prompts (2023 en)](https://github.com/pabraksas/nero/blob/main/knowledge/ChatGPT.Prompts.Mastering.pdf)
 - [Prompt Engineering Guide (en)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Awesome ChatGPT Prompts (en)](https://github.com/f/awesome-chatgpt-prompts)
-
+- [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 ## *Боты в Telegram*
 
