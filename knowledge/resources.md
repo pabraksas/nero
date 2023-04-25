@@ -10,8 +10,7 @@
 [datafit.ai](https://datafit.ai/)
 
 
-
---- 
+---
 
 ### Статьи:
 - [Регистрация chatGPT](Регистрация-GPT.md)

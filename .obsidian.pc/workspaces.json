@@ -15,8 +15,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge/resources.md",
-                    "mode": "source",
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -88,7 +88,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "knowledge/resources.md",
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "knowledge/resources.md"
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md"
                   }
                 }
               },

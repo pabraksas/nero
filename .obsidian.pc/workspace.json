@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/resources.md",
-                "mode": "source",
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/resources.md",
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/resources.md"
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md"
               }
             }
           },
@@ -151,12 +151,12 @@
   },
   "active": "c113a1cd38d9648d",
   "lastOpenFiles": [
+    "knowledge/Регистрация-GPT.md",
+    "knowledge/resources.md",
     "README.md",
     "START.md",
-    "knowledge/resources.md",
     "-- media/changelog.md",
     "knowledge/Ресурсы для prompt engineering.md",
-    "knowledge/Регистрация-GPT.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "knowledge/Методики по эффективному дообучению  языковых моделей.md",
     "-- in/Untitled.md",
