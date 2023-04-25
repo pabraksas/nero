@@ -13,5 +13,7 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "strictLineBreaks": true
 }

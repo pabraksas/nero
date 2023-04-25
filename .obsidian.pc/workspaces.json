@@ -17,6 +17,7 @@
                   "state": {
                     "file": "-- in/Студенты.md",
                     "mode": "preview",
+                    "backlinks": false,
                     "source": false
                   }
                 }
@@ -82,23 +83,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "8b7d20d73f153d1f",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "-- in/Студенты.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
                 "id": "c150b8c690c79134",
                 "type": "leaf",
                 "state": {
@@ -140,7 +124,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "horizontal",
@@ -164,10 +148,7 @@
       "active": "6cfb197c69380a02",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "/",
-          "-- in",
-          "-- media",
-          "knowledge"
+          "/"
         ]
       }
     },

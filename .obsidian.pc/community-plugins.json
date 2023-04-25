@@ -10,5 +10,13 @@
   "obsidian-plugin-toc",
   "obsidian-dynamic-toc",
   "workspaces-plus",
-  "obsidian-autocomplete-plugin"
+  "obsidian-autocomplete-plugin",
+  "obsidian-file-color",
+  "hotkeysplus-obsidian",
+  "note-refactor-obsidian",
+  "obsidian-outliner",
+  "obsidian-smart-typography",
+  "obsidian-sort-and-permute-lines",
+  "tag-wrangler",
+  "obsidian-vault-changelog"
 ]
