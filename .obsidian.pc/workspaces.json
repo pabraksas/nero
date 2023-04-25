@@ -6,35 +6,22 @@
         "type": "split",
         "children": [
           {
-            "id": "8940935dc4e393ae",
+            "id": "7a22de7da4ab8dd3",
             "type": "tabs",
             "children": [
               {
-                "id": "088934868a87eaf2",
+                "id": "6cfb197c69380a02",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "-- in/Студенты.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "9e882a1cce478788",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-- in/20 приложений с AI для всего на свете.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -100,7 +87,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "-- in/20 приложений с AI для всего на свете.md",
+                    "file": "-- in/Студенты.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "-- in/20 приложений с AI для всего на свете.md",
+                    "file": "-- in/Студенты.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -140,16 +127,8 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "-- in/20 приложений с AI для всего на свете.md"
+                    "file": "-- in/Студенты.md"
                   }
-                }
-              },
-              {
-                "id": "fdbc17aea7d9efef",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
                 }
               },
               {
@@ -161,7 +140,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
@@ -171,7 +150,6 @@
       "left-ribbon": {
         "hiddenItems": {
           "markdown-importer:Open format converter": false,
-          "audio-recorder:Start/stop recording": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -183,11 +161,12 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "9e882a1cce478788",
+      "active": "6cfb197c69380a02",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "/",
           "-- in",
+          "-- media",
           "knowledge"
         ]
       }
@@ -351,7 +330,8 @@
           "templater-obsidian:Templater": false
         }
       },
-      "active": "d5a26590c0dca35c"
+      "active": "d5a26590c0dca35c",
+      "workspaces-plus:settings-v1": {}
     }
   },
   "active": "def"
