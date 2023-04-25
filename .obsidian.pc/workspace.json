@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71ae6e5799ac6c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-- in/chatgpt-telegram-bot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+                "file": "-- in/chatgpt-telegram-bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md"
+                "file": "-- in/chatgpt-telegram-bot.md"
               }
             }
           },
@@ -149,17 +163,17 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "c113a1cd38d9648d",
+  "active": "71ae6e5799ac6c26",
   "lastOpenFiles": [
+    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+    "-- in/chatgpt-telegram-bot.md",
     "knowledge/Регистрация-GPT.md",
     "knowledge/resources.md",
     "README.md",
     "START.md",
     "-- media/changelog.md",
     "knowledge/Ресурсы для prompt engineering.md",
-    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "knowledge/Методики по эффективному дообучению  языковых моделей.md",
-    "-- in/Untitled.md",
     "-- media/-- attachments/100.AI.Tools.xlsx",
     "-- in/клуб коперайтеров.md",
     "-- in/нейронки - research.md",
