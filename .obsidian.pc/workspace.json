@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md"
+                "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md"
               }
             }
           },
@@ -153,11 +153,16 @@
   },
   "active": "35e0794e197c234b",
   "lastOpenFiles": [
+    "knowledge/Методики по эффективному дообучению  языковых моделей.md",
+    "knowledge/resources.md",
+    "-- in/Untitled.md",
+    "-- media/-- attachments/100.AI.Tools.xlsx",
+    "-- in/клуб коперайтеров.md",
+    "-- in/нейронки - research.md",
+    "-- media/changelog.md",
+    "ch.1 Создаём сагу - Сценарий.md",
     "START.md",
     "README.md",
-    "ch.1 Создаём сагу - Сценарий.md",
-    "-- media/changelog.md",
-    "knowledge/resources.md",
     "-- in/Студенты.md",
     "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
     "-- in/SOTA.md",
@@ -169,28 +174,23 @@
     "knowledge/Kandinsky.md",
     "-- media/-- attachments/ChatGPT.Prompts.Mastering.pdf",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
-    "-- in/клуб коперайтеров.md",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
     "knowledge/chatGPT.some.prompts.md",
     "knowledge/Ресурсы для prompt engineering.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "ch.0 Создаём сагу - План.md",
     "knowledge/Регистрация-GPT.md",
-    "knowledge/Методики по эффективному дообучению  языковых моделей.md",
     "-- media/-- attachments",
-    "-- in/нейронки - research.md",
     "-- media/-- attachments/ChatGPT.и.Революция.ИИ.pdf",
     "-- media/-- attachments/Midjourney.Prompts.Master.Guide.pdf",
     "-- in/Пожелания.md",
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
-    "-- in/асгарды.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",
     "-- in/obsidian-vault-changelog-main/resources/demo.png",
     "-- in/obsidian-vault-changelog-main/resources/demo-embedded.png",
-    "-- in/obsidian-vault-changelog-main/resources",
     "-- media/-- templates/assets/highlightr.gif"
   ]
 }

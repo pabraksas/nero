@@ -1,4 +1,10 @@
 {
-  "palette": [],
+  "palette": [
+    {
+      "id": "VfMBuzu1RPe1N-OiQ4W_1",
+      "name": "*.xlsx;*.xls",
+      "value": "#1f1bde"
+    }
+  ],
   "fileColors": []
 }

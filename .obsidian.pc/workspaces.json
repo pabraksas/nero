@@ -15,7 +15,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ch.1 Создаём сагу - Сценарий.md",
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": false
@@ -88,7 +88,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "ch.1 Создаём сагу - Сценарий.md",
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "ch.1 Создаём сагу - Сценарий.md"
+                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md"
                   }
                 }
               },
@@ -158,7 +158,12 @@
         "explorerFoldState": [
           "/",
           "-- in",
-          "-- media"
+          "-- media",
+          "knowledge",
+          "-- media/-- templates",
+          "-- media/-- templates/Admonition",
+          "-- media/-- templates/Formatting",
+          "-- media/-- templates/Input"
         ]
       }
     },

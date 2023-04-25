@@ -37,5 +37,6 @@
     }
   ],
   "cmenu-plugin:editor:insert-tag": [],
-  "workspace:undo-close-pane": []
+  "workspace:undo-close-pane": [],
+  "file-explorer:new-file-in-new-pane": []
 }

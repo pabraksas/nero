@@ -1,5 +1,5 @@
 {
-  "numberOfFilesToShow": 100,
+  "numberOfFilesToShow": 30,
   "changelogFilePath": "-- media/changelog.md",
   "watchVaultChange": true,
   "excludePaths": ""
