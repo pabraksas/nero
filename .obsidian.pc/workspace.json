@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.2 Создаём сагу - Комикс.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e882a1cce478788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-- in/20 приложений с AI для всего на свете.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.2 Создаём сагу - Комикс.md",
+                "file": "-- in/20 приложений с AI для всего на свете.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.2 Создаём сагу - Комикс.md",
+                "file": "-- in/20 приложений с AI для всего на свете.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.2 Создаём сагу - Комикс.md"
+                "file": "-- in/20 приложений с AI для всего на свете.md"
               }
             }
           },
@@ -168,22 +181,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b8d0a87a7ce4d827",
+  "active": "9e882a1cce478788",
   "lastOpenFiles": [
-    "knowledge/Kandinsky.md",
+    "-- media/-- attachments/100 AI Tools.xlsx",
+    "-- media/-- attachments/lu229504c3n8.tmp",
+    "README.md",
+    "-- in/20 приложений с AI для всего на свете.md",
     "ch.2 Создаём сагу - Комикс.md",
+    "ch.3 Создаём сагу - Видео.md",
+    "knowledge/Kandinsky.md",
     "knowledge/ChatGPT.Prompts.Mastering.pdf",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "-- in/клуб коперайтеров.md",
     "START.md",
-    "ch.3 Создаём сагу - Видео.md",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
     "knowledge/chatGPT.some.prompts.md",
     "knowledge/Ресурсы для prompt engineering.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "ch.0 Создаём сагу - План.md",
-    "README.md",
     "knowledge/resources.md",
     "knowledge/Регистрация-GPT.md",
     "-- in/SOTA.md",
@@ -198,7 +214,6 @@
     "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/прокачиваем исследователя - SciSkillUp.md",
     "-- in/асгарды.md",
-    "-- in/The Easiest Way to Connect Your Obsidian Vault with Github.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",
@@ -206,7 +221,6 @@
     "-- in/obsidian-vault-changelog-main/resources/demo-embedded.png",
     "-- in/obsidian-vault-changelog-main/resources",
     "-- in/obsidian-vault-changelog-main/package.json",
-    "-- in/obsidian-vault-changelog-main/manifest.json",
     "-- media/-- templates/assets/highlightr.gif"
   ]
 }
