@@ -4,6 +4,13 @@
 
 --- 
 
+### Сайты:
+
+[https://chatonai.org](https://chatonai.org/)
+
+
+--- 
+
 ### Статьи:
 - [Регистрация chatGPT](Регистрация-GPT.md)
 - [Ресурсы для prompt engineering языковых моделей](Ресурсы%20для%20prompt%20engineering.md)

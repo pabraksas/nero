@@ -2,7 +2,7 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "-- in",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-US",
@@ -15,5 +15,6 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true
 }

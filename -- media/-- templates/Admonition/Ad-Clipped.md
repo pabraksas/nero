@@ -1,3 +1,0 @@
-```ad-seealso
-title: Clipped
-```
