@@ -15,8 +15,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
-                    "mode": "preview",
+                    "file": "knowledge/resources.md",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
@@ -88,7 +88,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "README.md",
+                    "file": "knowledge/resources.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "README.md"
+                    "file": "knowledge/resources.md"
                   }
                 }
               },
@@ -155,6 +155,7 @@
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "/",
+          "knowledge",
           "-- media/-- templates/Formatting",
           "-- media/-- templates/Input"
         ]

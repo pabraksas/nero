@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "knowledge/resources.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "knowledge/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "knowledge/resources.md"
               }
             }
           },
@@ -151,9 +151,9 @@
   },
   "active": "c113a1cd38d9648d",
   "lastOpenFiles": [
+    "README.md",
     "START.md",
     "knowledge/resources.md",
-    "README.md",
     "-- media/changelog.md",
     "knowledge/Ресурсы для prompt engineering.md",
     "knowledge/Регистрация-GPT.md",

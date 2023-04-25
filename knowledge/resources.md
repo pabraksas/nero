@@ -6,7 +6,9 @@
 
 ### Сайты:
 
-[https://chatonai.org](https://chatonai.org/)
+[chatonai.org](https://chatonai.org/)
+[datafit.ai](https://datafit.ai/)
+
 
 
 --- 
