@@ -63,6 +63,11 @@
         }
       ],
       "icon": "bracket-glyph"
+    },
+    {
+      "id": "obsidian-git:push",
+      "name": "Obsidian Git: Create backup",
+      "icon": "image-file"
     }
   ],
   "appendMethod": "body",
