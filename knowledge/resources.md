@@ -22,7 +22,7 @@
 
 
 ### Видео:
-- [ChatGPT БОЛЬШОЙ КУРС для Начинающих (33 запроса)](youtube.com/watch?v=ntACspNRNXk&t=5)
+- [ChatGPT БОЛЬШОЙ КУРС для Начинающих (33 запроса)](https://youtube.com/watch?v=ntACspNRNXk&t=5)
 
 
 ---

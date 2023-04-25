@@ -15,8 +15,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "-- in/Студенты.md",
-                    "mode": "preview",
+                    "file": "knowledge/resources.md",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
@@ -88,7 +88,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "-- in/Студенты.md",
+                    "file": "-- media/changelog.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -111,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "-- in/Студенты.md"
+                    "file": "-- media/changelog.md"
                   }
                 }
               },
@@ -136,8 +136,6 @@
           "markdown-importer:Open format converter": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false,
@@ -145,10 +143,11 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "6cfb197c69380a02",
+      "active": "ade2db6313316c19",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "/"
+          "/",
+          "-- in"
         ]
       }
     },
