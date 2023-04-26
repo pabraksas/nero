@@ -15,28 +15,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "71ae6e5799ac6c26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "-- in/chatgpt-telegram-bot.md",
+                    "file": "knowledge/resources.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -102,7 +88,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "-- in/chatgpt-telegram-bot.md",
+                    "file": "knowledge/resources.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -125,7 +111,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "-- in/chatgpt-telegram-bot.md"
+                    "file": "knowledge/resources.md"
                   }
                 }
               },
@@ -165,10 +151,11 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "71ae6e5799ac6c26",
+      "active": "c113a1cd38d9648d",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "/",
+          "-- media",
           "knowledge",
           "-- media/-- templates/Formatting",
           "-- media/-- templates/Input"

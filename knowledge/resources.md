@@ -6,8 +6,8 @@
 
 ### Сайты:
 
-[chatonai.org](https://chatonai.org/)
-[datafit.ai](https://datafit.ai/)
+- [плагин для браузера с наборами промтов](https://chatonai.org/)
+- [datafit.ai](https://datafit.ai/)
 
 
 ---
@@ -40,7 +40,7 @@
 Как правильно делать запросы к chatGPT.
 Готовые примеры запросов (*промтов*) для языковой модели.
 
-- [A Complete Guide to Mastering Effective Prompts (2023 en)](/knowledge/ChatGPT.Prompts.Mastering.pdf)
+- [A Complete Guide to Mastering Effective Prompts (2023 en)](ChatGPT.Prompts.Mastering.pdf)
 - [Prompt Engineering Guide (en)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Awesome ChatGPT Prompts (en)](https://github.com/f/awesome-chatgpt-prompts)
 - [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
