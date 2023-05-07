@@ -2,14 +2,12 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-admonition",
-  "cmenu-plugin",
   "obsidian-editor-shortcuts",
   "obsidian-doubleshift",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-auto-link-title",
   "obsidian-plugin-toc",
   "obsidian-dynamic-toc",
-  "workspaces-plus",
   "obsidian-autocomplete-plugin",
   "obsidian-file-color",
   "hotkeysplus-obsidian",
@@ -18,5 +16,6 @@
   "tag-wrangler",
   "obsidian-vault-changelog",
   "calendar",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "editing-toolbar"
 ]
