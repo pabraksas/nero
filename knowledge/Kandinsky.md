@@ -24,4 +24,3 @@
    📍[HuggingFace](https://huggingface.co/sberbank-ai/Kandinsky_2.1)
    📍[rudalle.ru](https://rudalle.ru/)
    📍[MLSpace](https://sbercloud.ru/ru/datahub/rugpt3family/kandinsky-2-1)
-

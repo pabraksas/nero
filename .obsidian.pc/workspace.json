@@ -4,11 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fb51f6f8b84e95b9",
+        "id": "a2295207ffa03708",
         "type": "tabs",
         "children": [
           {
-            "id": "8768f6dd2c59f544",
+            "id": "b92af2456df5bcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7ba019999d729f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f82d4409456e2f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,36 +177,36 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "8768f6dd2c59f544",
+  "active": "9f82d4409456e2f6",
   "lastOpenFiles": [
-    "knowledge/Рекомендации по английскому языку.md",
+    "START.md",
     "README.md",
-    "ch.0 Создаём сагу - План.md",
+    "01 Сага - Рассказ.md",
+    "knowledge/О сюжетах и драматургии.md",
+    "knowledge/Регистрация-GPT.md",
+    "План курса.md",
+    "knowledge/Рекомендации.md",
+    "knowledge/Другие текстовые модели.md",
+    "--in/клуб коперайтеров.md",
+    "knowledge/100 prompts for Audience Building.md",
+    "knowledge/Disclaimer.md",
+    "03 Сага - Фильм.md",
+    "--in/LLM и их лицензии.md",
+    "02 Сага - Комикс.md",
+    "knowledge/Stable Diffusion - Теплица социальных технологий.md",
+    "knowledge/Полезные ссылки.md",
+    "knowledge/20 приложений с AI для всего на свете.md",
+    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+    "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
+    "knowledge/Методики по эффективному дообучению  языковых моделей.md",
+    "knowledge/Kandinsky.md",
     "--in/нейронки - research.md",
     "--media/--templates/Rename File.md",
-    "START.md",
     "--media/Рекомендации по английскому языку.md",
     "changelog.md",
     "--media",
-    "knowledge/Методики по эффективному дообучению  языковых моделей.md",
-    "ch.1 Создаём сагу - Сценарий.md",
-    "--in/LLM и их лицензии.md",
-    "knowledge/Полезные ссылки.md",
-    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
-    "knowledge/20 приложений с AI для всего на свете.md",
     "-- media/changelog.md",
-    "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
-    "--in/chatgpt-telegram-bot.md",
-    "--in/Студенты.md",
-    "ch.2 Создаём сагу - Комикс.md",
-    "ch.3 Создаём сагу - Видео.md",
-    "--in/Пожелания.md",
-    "--in/прокачиваем исследователя - SciSkillUp.md",
-    "knowledge/Регистрация-GPT.md",
-    "knowledge/Ресурсы для prompt engineering.md",
-    "knowledge/chatGPT.some.prompts.md",
     "--media/--attachments/100.AI.Tools.xlsx",
-    "--in/клуб коперайтеров.md",
     "-- media/-- attachments/100 AI Tools.xlsx",
     "-- media/-- attachments/lu229504c3n8.tmp",
     "--media/--attachments/ChatGPT.Prompts.Mastering.pdf",

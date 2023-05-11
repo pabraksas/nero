@@ -15,6 +15,7 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "strictLineBreaks": true,
-  "showUnsupportedFiles": true
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

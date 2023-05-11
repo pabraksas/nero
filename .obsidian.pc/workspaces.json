@@ -6,11 +6,30 @@
         "type": "split",
         "children": [
           {
-            "id": "fb51f6f8b84e95b9",
+            "id": "a2295207ffa03708",
             "type": "tabs",
             "children": [
               {
-                "id": "8768f6dd2c59f544",
+                "id": "b92af2456df5bcdb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "START.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7ba019999d729f3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f82d4409456e2f6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -96,7 +115,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "README.md",
+                    "file": "START.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -119,7 +138,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "README.md"
+                    "file": "START.md"
                   }
                 }
               },
@@ -160,7 +179,7 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "8768f6dd2c59f544",
+      "active": "b92af2456df5bcdb",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "knowledge"
