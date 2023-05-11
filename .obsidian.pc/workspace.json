@@ -4,29 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c6df4739e5861cd0",
+        "id": "c6501e73833505ed",
         "type": "tabs",
+        "dimension": 50.13531799729364,
         "children": [
           {
-            "id": "c113a1cd38d9648d",
+            "id": "a3145ce99d1d8359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-- in/SOTA LLM и их лицензии.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "23bda90d5de7fafa",
+        "type": "tabs",
+        "dimension": 49.86468200270636,
+        "children": [
+          {
+            "id": "ed0daab27c5ab53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-- in/нейронки - research.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "eefbeef8e7e7e5c4",
+            "id": "044fb105acf2e13c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "knowledge/Рекомендации по английскому языку.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5086555480957
+    "width": 231.51103591918945
   },
   "right": {
     "id": "9e059ab14aaf620c",
@@ -108,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,41 +190,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eefbeef8e7e7e5c4",
+  "active": "a3145ce99d1d8359",
   "lastOpenFiles": [
-    "-- in/нейронки - research.md",
-    "-- in/Пожелания.md",
-    "-- in/прокачиваем исследователя - SciSkillUp.md",
-    "knowledge/resources.md",
-    "knowledge/20 приложений с AI для всего на свете.md",
-    "knowledge/Регистрация-GPT.md",
-    "knowledge/Ресурсы для prompt engineering.md",
     "START.md",
     "README.md",
-    "ch.0 Создаём сагу - План.md",
+    "changelog.md",
     "knowledge/Методики по эффективному дообучению  языковых моделей.md",
-    "knowledge/chatGPT.some.prompts.md",
-    "-- in/chatgpt-telegram-bot.md",
     "ch.1 Создаём сагу - Сценарий.md",
+    "knowledge/Рекомендации по английскому языку.md",
+    "-- in/LLM и их лицензии.md",
+    "-- in/нейронки - research.md",
+    "knowledge/Полезные ссылки.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+    "knowledge/20 приложений с AI для всего на свете.md",
     "-- media/changelog.md",
+    "ch.0 Создаём сагу - План.md",
+    "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
+    "-- in/chatgpt-telegram-bot.md",
+    "-- in/Студенты.md",
+    "ch.2 Создаём сагу - Комикс.md",
+    "ch.3 Создаём сагу - Видео.md",
+    "-- in/Пожелания.md",
+    "-- in/прокачиваем исследователя - SciSkillUp.md",
+    "knowledge/Регистрация-GPT.md",
+    "knowledge/Ресурсы для prompt engineering.md",
+    "knowledge/chatGPT.some.prompts.md",
     "-- media/-- attachments/100.AI.Tools.xlsx",
     "-- in/клуб коперайтеров.md",
-    "-- in/Студенты.md",
-    "-- in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
-    "-- in/SOTA LLM и их лицензии.md",
-    "ch.2 Создаём сагу - Комикс.md",
     "-- media/-- attachments/100 AI Tools.xlsx",
     "-- media/-- attachments/lu229504c3n8.tmp",
-    "ch.3 Создаём сагу - Видео.md",
     "knowledge/Kandinsky.md",
     "-- media/-- attachments/ChatGPT.Prompts.Mastering.pdf",
     "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191402-J6N6BK3.md",
-    "ch.1 Создаём сагу - Сценарий.sync-conflict-20230424-191403-J6N6BK3.md",
     "-- media/-- attachments",
     "-- media/-- attachments/ChatGPT.и.Революция.ИИ.pdf",
     "-- media/-- attachments/Midjourney.Prompts.Master.Guide.pdf",
-    "-- in/ch.1 Создаём сагу - Комикс.md",
     "-- in/obsidian-vault-changelog-main/versions.json",
     "-- in/obsidian-vault-changelog-main/tsconfig.json",
     "-- in/obsidian-vault-changelog-main/rollup.config.js",

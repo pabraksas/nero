@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79249a8e943228a7",
+        "id": "5949a06bfef679a8",
         "type": "tabs",
         "children": [
           {
-            "id": "038a54930593b9fa",
+            "id": "41d787a4c2ff987e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.1 Создаём сагу - Сценарий.md",
+                "file": "ch.0 Создаём сагу - План.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "0a03e811942dbbff",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ch.1 Создаём сагу - Сценарий.md",
+            "file": "ch.0 Создаём сагу - План.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ch.1 Создаём сагу - Сценарий.md",
+            "file": "ch.0 Создаём сагу - План.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ch.1 Создаём сагу - Сценарий.md"
+            "file": "ch.0 Создаём сагу - План.md"
           }
         }
       }
@@ -131,10 +139,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "038a54930593b9fa",
+  "active": "41d787a4c2ff987e",
   "lastOpenFiles": [
-    "-- media/-- attachments/Midjourney.Prompts.Master.Guide.pdf",
     "ch.1 Создаём сагу - Сценарий.md",
+    "ch.0 Создаём сагу - План.md",
+    "START.md",
+    "README.md",
+    "-- in/клуб коперайтеров.md",
+    "ch.2 Создаём сагу - Комикс.md",
+    "-- media/-- attachments/Midjourney.Prompts.Master.Guide.pdf",
     "Сага.abraksas.md"
   ]
 }
