@@ -3,6 +3,7 @@
   "global-search",
   "switcher",
   "graph",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -16,5 +17,6 @@
   "outline",
   "word-count",
   "slides",
+  "workspaces",
   "file-recovery"
 ]

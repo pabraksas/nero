@@ -9,7 +9,7 @@
     "ru"
   ],
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "-- media/-- attachment",
+  "attachmentFolderPath": "--media/--attachment",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
