@@ -147,6 +147,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "workspaces:Пространства": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "templates:Вставить шаблон": false,

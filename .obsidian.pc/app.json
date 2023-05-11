@@ -1,14 +1,14 @@
 {
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "-- in",
+  "newFileFolderPath": "--in",
   "showFrontmatter": false,
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-US",
     "ru"
   ],
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "--media/--attachment",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
