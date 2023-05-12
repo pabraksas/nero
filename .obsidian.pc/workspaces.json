@@ -15,7 +15,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "START.md",
+                    "file": "--in/прокачиваем исследователя.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "START.md",
+                    "file": "--in/прокачиваем исследователя.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -151,7 +151,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "START.md"
+                    "file": "--in/прокачиваем исследователя.md"
                   }
                 }
               },
@@ -195,6 +195,7 @@
       "active": "b92af2456df5bcdb",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
+          "--in",
           "knowledge"
         ]
       }

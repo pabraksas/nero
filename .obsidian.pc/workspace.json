@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START.md",
+                "file": "--in/прокачиваем исследователя.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START.md",
+                "file": "--in/прокачиваем исследователя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START.md"
+                "file": "--in/прокачиваем исследователя.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "b92af2456df5bcdb",
   "lastOpenFiles": [
-    "README.md",
     "knowledge/Полезные ссылки.md",
+    "README.md",
+    "START.md",
     "knowledge/Disclaimer.md",
     "01 Сага - Рассказ.md",
-    "START.md",
     "План курса.md",
     "knowledge/Рекомендации.md",
     "knowledge/О сюжетах и драматургии.md",
