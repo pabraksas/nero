@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "START.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План курса.md",
+                "file": "knowledge/Полезные ссылки.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "START.md"
               }
             }
           },
@@ -190,24 +190,24 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "9f82d4409456e2f6",
+  "active": "b92af2456df5bcdb",
   "lastOpenFiles": [
-    "START.md",
     "README.md",
+    "knowledge/Полезные ссылки.md",
+    "knowledge/Disclaimer.md",
+    "01 Сага - Рассказ.md",
+    "START.md",
     "План курса.md",
     "knowledge/Рекомендации.md",
-    "01 Сага - Рассказ.md",
     "knowledge/О сюжетах и драматургии.md",
     "knowledge/Регистрация-GPT.md",
     "knowledge/Другие текстовые модели.md",
     "--in/клуб коперайтеров.md",
     "knowledge/100 prompts for Audience Building.md",
-    "knowledge/Disclaimer.md",
     "03 Сага - Фильм.md",
     "--in/LLM и их лицензии.md",
     "02 Сага - Комикс.md",
     "knowledge/Stable Diffusion - Теплица социальных технологий.md",
-    "knowledge/Полезные ссылки.md",
     "knowledge/20 приложений с AI для всего на свете.md",
     "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
     "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",

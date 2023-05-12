@@ -16,7 +16,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "START.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -35,7 +35,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "README.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "План курса.md",
+                    "file": "knowledge/Полезные ссылки.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -128,7 +128,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "README.md",
+                    "file": "START.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -151,7 +151,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "README.md"
+                    "file": "START.md"
                   }
                 }
               },
@@ -192,7 +192,7 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "9f82d4409456e2f6",
+      "active": "b92af2456df5bcdb",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "knowledge"
