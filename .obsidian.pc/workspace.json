@@ -4,52 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a2295207ffa03708",
+        "id": "2ededa8d75afa312",
         "type": "tabs",
         "children": [
           {
-            "id": "b92af2456df5bcdb",
+            "id": "aa1f58b0e8af24b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--in/прокачиваем исследователя.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7ba019999d729f3b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f82d4409456e2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c29385c5750fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/Полезные ссылки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -126,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--in/прокачиваем исследователя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "--in/прокачиваем исследователя.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,11 +150,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b92af2456df5bcdb",
+  "active": "aa1f58b0e8af24b0",
   "lastOpenFiles": [
-    "knowledge/Полезные ссылки.md",
+    "--in/прокачиваем исследователя.md",
     "README.md",
     "START.md",
+    "--in/прокачиваем исследователя 1.md",
+    "knowledge/Полезные ссылки.md",
     "knowledge/Disclaimer.md",
     "01 Сага - Рассказ.md",
     "План курса.md",
@@ -216,9 +178,7 @@
     "--in/нейронки - research.md",
     "--media/--templates/Rename File.md",
     "--media/Рекомендации по английскому языку.md",
-    "changelog.md",
     "--media",
-    "-- media/changelog.md",
     "--media/--attachments/100.AI.Tools.xlsx",
     "-- media/-- attachments/100 AI Tools.xlsx",
     "-- media/-- attachments/lu229504c3n8.tmp",
