@@ -2,19 +2,24 @@
   "workspaces": {
     "def": {
       "main": {
-        "id": "73d6cbd1597d6124",
+        "id": "00a2ff7baa6e2dd0",
         "type": "split",
         "children": [
           {
-            "id": "2ededa8d75afa312",
+            "id": "715a6e2d7df2b021",
             "type": "tabs",
             "children": [
               {
-                "id": "aa1f58b0e8af24b0",
+                "id": "569a6bb975a541dd",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "--рассказ/Abraksas - raw04.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
               }
             ]
@@ -23,15 +28,15 @@
         "direction": "vertical"
       },
       "left": {
-        "id": "632b79a2b40f320f",
+        "id": "3519bf8cfca4733c",
         "type": "split",
         "children": [
           {
-            "id": "9608419c24ce3114",
+            "id": "d0d550368c907297",
             "type": "tabs",
             "children": [
               {
-                "id": "ade2db6313316c19",
+                "id": "61b86636c19c9872",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
@@ -41,7 +46,7 @@
                 }
               },
               {
-                "id": "f6edf642fae5c9d2",
+                "id": "62f4cc48e6d8b378",
                 "type": "leaf",
                 "state": {
                   "type": "search",
@@ -56,15 +61,7 @@
                 }
               },
               {
-                "id": "6da8992bffea2231",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              },
-              {
-                "id": "0222dba91623dc7e",
+                "id": "56b12b0fa1bdc8a9",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -75,29 +72,39 @@
           }
         ],
         "direction": "horizontal",
-        "width": 231.51103591918945
+        "width": 300,
+        "collapsed": true
       },
       "right": {
-        "id": "9e059ab14aaf620c",
+        "id": "e1547123990d031e",
         "type": "split",
         "children": [
           {
-            "id": "b1af513a5ab874ae",
+            "id": "5a636324865482a0",
             "type": "tabs",
             "children": [
               {
-                "id": "c150b8c690c79134",
+                "id": "8a9e720cd4dadccc",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7b31f4ad6b7e170",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "--рассказ/Abraksas - raw04.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               },
               {
-                "id": "fa1cea1c4bf50ced",
+                "id": "2ce47ac69de144b9",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
@@ -108,54 +115,41 @@
                 }
               },
               {
-                "id": "58b78574a27171de",
+                "id": "b7178745937ad5b8",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
-                }
-              },
-              {
-                "id": "b8d0a87a7ce4d827",
-                "type": "leaf",
-                "state": {
-                  "type": "git-history-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "184b17dc37813e9e",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
+                  "state": {
+                    "file": "--рассказ/Abraksas - raw04.md"
+                  }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 324.5,
+        "width": 300,
         "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "canvas:Создать новый холст": false,
-          "workspaces:Пространства": false,
+          "templater-obsidian:Templater": false,
           "switcher:Меню быстрого перехода": false,
           "graph:Граф": false,
+          "canvas:Создать новый холст": false,
           "templates:Вставить шаблон": false,
           "command-palette:Открыть палитру команд": false,
           "markdown-importer:Импорт Markdown-файлов": false,
-          "templater-obsidian:Templater": false,
+          "workspaces:Пространства": false,
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "aa1f58b0e8af24b0",
+      "active": "569a6bb975a541dd",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "--in"
+          "--in",
+          "--media",
+          "--рассказ"
         ]
       }
     },
