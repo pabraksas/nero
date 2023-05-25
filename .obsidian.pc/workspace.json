@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "knowledge/Полезности.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/GPT-prompts.md",
+                "file": "knowledge/Полезности.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/GPT-prompts.md",
+                "file": "knowledge/Полезности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/GPT-prompts.md"
+                "file": "knowledge/Полезности.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "5eaefa356dd2d11c",
+  "active": "3242a56d164cd730",
   "lastOpenFiles": [
-    "knowledge/Полезности.md",
     "knowledge/GPT-prompts.md",
+    "knowledge/Полезности.md",
     "knowledge/LLM.md",
     "knowledge/LLM-prompt-engineering.md",
     "knowledge/GPT-plugins.md",
