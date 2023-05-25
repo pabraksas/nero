@@ -8,7 +8,7 @@
     "en-US",
     "ru"
   ],
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "--media/--attachment",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,

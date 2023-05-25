@@ -1,6 +1,8 @@
 
 ![Фото создано Midjourney V5](https://avatars.dzeninfra.ru/get-zen_doc/9662441/pub_64350ac65951555cfad2100f_64350ad634531801e9a080ff/scale_1200)
 
+# Промты для Midjourney V5 при помощи GPT-3,4
+
 Фото создано Midjourney V5
 
 **Запрос №1**  

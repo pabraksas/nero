@@ -1,6 +1,21 @@
+# Как правильно делать запросы к chatGPT
+Инструкции и готовые примеры запросов (*промтов*) для языковой модели.
+
+---
+
+- [Prompt Engineering Guide (en)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Awesome ChatGPT Prompts (en)](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- [Бесплатная подборка из 500 затравок на все случаи жизни](https://vaulted-polonium-23c.notion.site/500-Best-ChatGPT-Prompts-63ef8a04a63c476ba306e1ec9a9b91c0)
+- [Еще одна публичная база запросов](https://www.promptvibes.com/)
+- [Старая и полезная обучалка, которая была безумна актуальна во времена Few shot](https://learnprompting.org/docs/category/-basic-applications)
 
 
-# Market Research
+---
+
+![GPT-prompts-for-Audience-Building](knowledge/GPT-prompts-for-Audience-Building.md)
+
+## Market Research
 
 1. "What are the best ways to conduct primary market research to gain insights into customer needs and preferences?"
 2. "How can I effectively use surveys and questionnaires to gather market research data?"
@@ -24,7 +39,7 @@
 20. "How can I use market research to inform and validate business strategies and decision-making in a company?"
 
 
-# User Persona
+## User Persona
 
 1. "How can user personas enhance the efficiency and speed of design and development?"
 2. "What are effective methods to handle user personas for various cultures and languages?"
@@ -43,7 +58,7 @@
 15. "How can user personas promote unity and cohesiveness in design?"
 
 
-# Qualitative User Research
+## Qualitative User Research
 
 1. "What are the best methods for gathering user feedback?"
 2. "How can I effectively analyze and interpret qualitative research data?"
@@ -65,7 +80,7 @@
 18. "What are some best practices for conducting user research with diverse populations?"
 19. "How can I use user research to inform product roadmap decisions?"
 
-# Quantitative User Research
+## Quantitative User Research
 
 1. "What are the best practices for conducting surveys in different languages?"
 2. "What are some common statistical techniques used in quantitative research?"
@@ -89,7 +104,7 @@
 20. "How can I use cluster analysis to identify patterns and segments in user data?"
 
 
-# KPIs and Metrics
+## KPIs and Metrics
 
 1. How can I track user engagement and retention for my digital product?
 2. How can I use metrics to identify and prioritize features for my digital product?
@@ -107,7 +122,7 @@
 14. How can I use data to make informed decisions about my digital product?
 
 
-# Psychology
+## Psychology
 
 1. What psychological triggers can increase user engagement in digital products?
 2. How can cognitive science improve digital product usability?
@@ -142,7 +157,7 @@
 31. What are the best practices for using cognitive load theory in UX design?
 32. How can we use the principles of mental models in digital product design?
 
-More:
+## More
 
 1. "Write a marketing campaign outline using the 'Reciprocity Bias' framework to create a sense of obligation in [ideal customer persona] to try our [product/service]. Include value-adds or bonuses, and encourage reciprocity by asking for a favor or action in return."
 2. "Using the 'Attribution Bias' framework, please write a marketing campaign outline that attributes the successes or failures of our [product/service] to internal factors. Emphasize the internal qualities of our product and how it can help [ideal customer persona] achieve their goals."
@@ -168,3 +183,8 @@ More:
 22. "Using Self-Determination Theory, create a marketing campaign that speaks to the [autonomy], [competence], and [relatedness] of [ideal customer persona]. Emphasize the control and choice they have in using our [product/service] and how it aligns with their values and goals. Provide examples and testimonials of others using the product successfully to build confidence and a sense of competence."
 23. "Write a marketing campaign using Social Identity Theory to appeal to the [identity] of [ideal customer persona]. Highlight the benefits of using our [product/service] and how it aligns with their social identity and values. Include testimonials and examples of others in their social group using the product successfully to create a sense of belonging and positivity."
 24. "Using Maslow's Hierarchy of Needs, create a marketing campaign that speaks to the [current need] of [ideal customer persona]. Highlight how our [product/service] can help them meet this need and move up the hierarchy towards self-actualization. Use language that resonates with their current stage in the hierarchy and addresses their specific needs and goals."
+
+
+---
+
+![GPT-prompts-for-Midjourney](knowledge/GPT-prompts-for-Midjourney.md)

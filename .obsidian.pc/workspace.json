@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbecd86e6520ceb",
+        "id": "2153991804861aee",
         "type": "tabs",
         "children": [
           {
-            "id": "84902b31a13424a9",
+            "id": "3242a56d164cd730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--рассказ/Лисинова Ольга - 02.md",
+                "file": "knowledge/Полезности.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cdc15d27d77e91f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eaefa356dd2d11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/GPT-prompts.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -94,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--рассказ/Лисинова Ольга - 02.md",
+                "file": "knowledge/GPT-prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--рассказ/Лисинова Ольга - 02.md"
+                "file": "knowledge/GPT-prompts.md"
               }
             }
           }
@@ -141,9 +160,27 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "84902b31a13424a9",
+  "active": "5eaefa356dd2d11c",
   "lastOpenFiles": [
+    "knowledge/Полезности.md",
+    "knowledge/GPT-prompts.md",
+    "knowledge/LLM.md",
+    "knowledge/LLM-prompt-engineering.md",
+    "knowledge/GPT-plugins.md",
+    "knowledge/GPT-регистрация.md",
+    "knowledge/GPT-рекомендации.md",
+    "knowledge/Stable Diffusion.md",
+    "knowledge/Disclaimer.md",
     "--in/aiacademyme.md",
+    "knowledge/GPT-videos.md",
+    "knowledge/LLM-лицензии.md",
+    "knowledge/LLM-дообучение.md",
+    "knowledge/Kandinsky.md",
+    "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
+    "knowledge/20 AI for anything.md",
+    "knowledge/GPT-prompts-for-Audience-Building.md",
+    "knowledge/GPT-prompts-for-Midjourney.md",
+    "--рассказ/Лисинова Ольга - 02.md",
     "--рассказ/Abraksas - raw04.md",
     "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
