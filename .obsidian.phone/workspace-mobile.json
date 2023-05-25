@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4f853ed48be22d",
+        "id": "412696798e38604d",
         "type": "tabs",
         "children": [
           {
-            "id": "c61e1186544f8ba8",
+            "id": "680272c2b17ed129",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/О сюжетах и драматургии.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "knowledge/О сюжетах и драматургии.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "knowledge/О сюжетах и драматургии.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "knowledge/О сюжетах и драматургии.md"
+          }
         }
       }
     ],
@@ -131,8 +139,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c61e1186544f8ba8",
+  "active": "680272c2b17ed129",
   "lastOpenFiles": [
+    "--рассказ/Личинова Ольга - 02.md",
+    "knowledge/Промты для Midjourney V5 при помощи GPT-3,4.md",
+    "02 Сага - Комикс.md",
+    "knowledge/Ресурсы для prompt engineering.md",
+    "knowledge/Disclaimer.md",
+    "--рассказ/Abraksas - raw04.md",
     "ch.1 Создаём сагу - Сценарий.md",
     "ch.0 Создаём сагу - План.md",
     "START.md",

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "715a6e2d7df2b021",
+        "id": "3dbecd86e6520ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "569a6bb975a541dd",
+            "id": "84902b31a13424a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--рассказ/Abraksas - raw04.md",
-                "mode": "source",
+                "file": "--in/aiacademyme.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1547123990d031e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--рассказ/Abraksas - raw04.md",
+                "file": "--in/aiacademyme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--рассказ/Abraksas - raw04.md"
+                "file": "--in/aiacademyme.md"
               }
             }
           }
@@ -142,9 +141,9 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "569a6bb975a541dd",
+  "active": "84902b31a13424a9",
   "lastOpenFiles": [
-    "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf",
-    "--рассказ/Abraksas - raw04.md"
+    "--рассказ/Abraksas - raw04.md",
+    "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
 }
