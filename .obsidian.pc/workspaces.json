@@ -10,32 +10,39 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3242a56d164cd730",
+                "id": "5f5f52b3779d0376",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge/Полезности.md",
+                    "file": "knowledge/GPT-рекомендации.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
-              }
-            ]
-          },
-          {
-            "id": "cdc15d27d77e91f1",
-            "type": "tabs",
-            "children": [
+              },
               {
-                "id": "5eaefa356dd2d11c",
+                "id": "a27565284a08c4aa",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "knowledge/Полезности.md",
-                    "mode": "preview",
+                    "file": "--in/LangChain.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cb52fd4ef0633327",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "--in/LangChain - links.md",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
@@ -115,7 +122,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "knowledge/Полезности.md",
+                    "file": "knowledge/GPT-рекомендации.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -138,7 +145,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "knowledge/Полезности.md"
+                    "file": "knowledge/GPT-рекомендации.md"
                   }
                 }
               }
@@ -162,7 +169,7 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "3242a56d164cd730",
+      "active": "5f5f52b3779d0376",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "--in",

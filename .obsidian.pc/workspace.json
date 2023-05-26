@@ -8,32 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3242a56d164cd730",
+            "id": "5f5f52b3779d0376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Полезности.md",
+                "file": "knowledge/GPT-рекомендации.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "cdc15d27d77e91f1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5eaefa356dd2d11c",
+            "id": "a27565284a08c4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Полезности.md",
-                "mode": "preview",
+                "file": "--in/LangChain.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb52fd4ef0633327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--in/LangChain - links.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -113,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/Полезности.md",
+                "file": "knowledge/GPT-рекомендации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/Полезности.md"
+                "file": "knowledge/GPT-рекомендации.md"
               }
             }
           }
@@ -160,25 +167,29 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "3242a56d164cd730",
+  "active": "5f5f52b3779d0376",
   "lastOpenFiles": [
     "knowledge/GPT-prompts.md",
     "knowledge/Полезности.md",
+    "knowledge/GPT-plugins.md",
     "knowledge/LLM.md",
     "knowledge/LLM-prompt-engineering.md",
-    "knowledge/GPT-plugins.md",
-    "knowledge/GPT-регистрация.md",
     "knowledge/GPT-рекомендации.md",
+    "knowledge/GPT-prompts-for-Audience-Building.md",
+    "--in/LangChain.md",
+    "--in/LangChain - links.md",
+    "--in/PDF-GPT.md",
+    "--in/LangChain - Подробное руководство.md",
+    "knowledge/LLM-дообучение.md",
+    "knowledge/GPT-регистрация.md",
     "knowledge/Stable Diffusion.md",
     "knowledge/Disclaimer.md",
     "--in/aiacademyme.md",
     "knowledge/GPT-videos.md",
     "knowledge/LLM-лицензии.md",
-    "knowledge/LLM-дообучение.md",
     "knowledge/Kandinsky.md",
     "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
     "knowledge/20 AI for anything.md",
-    "knowledge/GPT-prompts-for-Audience-Building.md",
     "knowledge/GPT-prompts-for-Midjourney.md",
     "--рассказ/Лисинова Ольга - 02.md",
     "--рассказ/Abraksas - raw04.md",
