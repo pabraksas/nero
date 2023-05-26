@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d862179ce7e90c9",
+            "id": "8faf2ea3a0f592b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--in/learnprompting-basics.md",
-                "mode": "source",
+                "file": "knowledge/Полезности.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--in/learnprompting-basics.md",
+                "file": "knowledge/Полезности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--in/learnprompting-basics.md"
+                "file": "knowledge/Полезности.md"
               }
             }
           }
@@ -141,34 +141,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "0d862179ce7e90c9",
+  "active": "8faf2ea3a0f592b2",
   "lastOpenFiles": [
+    "knowledge/images.md",
+    "--рассказ/Abraksas - raw02.md",
+    "knowledge/Stable Diffusion.md",
+    "--in/fusionbrain.ai.md",
+    "--рассказ/Abraksas - raw01.md",
+    "knowledge/Kandinsky.md",
     "knowledge/Полезности.md",
-    "knowledge/GPT-videos.md",
+    "knowledge/GPT-plugins.md",
+    "--in/PDF-GPT.md",
+    "--in/LangChain.md",
+    "--in/LangChain - links.md",
     "--in/learnprompting-basics.md",
+    "knowledge/GPT-videos.md",
     "--in/neural-university.md",
     "--in/chatall.md",
     "knowledge/GPT-рекомендации.md",
     "knowledge/GPT-prompts.md",
-    "knowledge/GPT-plugins.md",
     "knowledge/LLM.md",
     "knowledge/LLM-prompt-engineering.md",
     "knowledge/GPT-prompts-for-Audience-Building.md",
-    "--in/LangChain.md",
-    "--in/LangChain - links.md",
-    "--in/PDF-GPT.md",
     "--in/LangChain - Подробное руководство.md",
     "knowledge/LLM-дообучение.md",
     "knowledge/GPT-регистрация.md",
-    "knowledge/Stable Diffusion.md",
     "knowledge/Disclaimer.md",
     "--in/aiacademyme.md",
     "knowledge/LLM-лицензии.md",
-    "knowledge/Kandinsky.md",
-    "--in/Free Dolly -- Introducing the World's First Truly Open Instruction -Tuned LLM.md",
-    "knowledge/20 AI for anything.md",
-    "knowledge/GPT-prompts-for-Midjourney.md",
-    "--рассказ/Лисинова Ольга - 02.md",
     "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
 }

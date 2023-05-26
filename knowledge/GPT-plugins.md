@@ -24,3 +24,14 @@
 	11. [Bypass ChatGPT's restrictions with DAN 6.2](https://app.aiprm.com/prompts/1793819198917701632)
 	
 	***DAN - способы обойти запреты***
+
+---
+
+- [Сводка Glarity](https://glarity.app/ru)
+	ChatGPT для YouTube/Google (без рекламы)
+	Гларити Сводка - это расширение ChatGPT для YouTube/Google, которое может делать сводку YouTube-видео и поисковых запросов Google, а также поддерживает Yahoo! ニュース, PubMed, PMC, NewsPicks, Github, Nikkei, Bing, Google Patents и любые сводки страниц.
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/jmQ93jz85Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+
+---
+

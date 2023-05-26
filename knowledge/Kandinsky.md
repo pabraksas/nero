@@ -24,3 +24,7 @@
    📍[HuggingFace](https://huggingface.co/sberbank-ai/Kandinsky_2.1)
    📍[rudalle.ru](https://rudalle.ru/)
    📍[MLSpace](https://sbercloud.ru/ru/datahub/rugpt3family/kandinsky-2-1)
+
+_Также генерация доступна на сайтах [fusionbrain.ai](fusionbrain.ai), [rudalle.ru](rudalle.ru), в виртуальном ассистенте в Android-приложении Салют и на умном устройстве под управлением Салют ТВ (по команде «Включи художника»)_
+
+
