@@ -3,13 +3,17 @@
 
 ---
 
-- [Prompt Engineering Guide (en)](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [Awesome ChatGPT Prompts (en)](https://github.com/f/awesome-chatgpt-prompts)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- [Бесплатная подборка из 500 затравок на все случаи жизни](https://vaulted-polonium-23c.notion.site/500-Best-ChatGPT-Prompts-63ef8a04a63c476ba306e1ec9a9b91c0)
-- [Еще одна публичная база запросов](https://www.promptvibes.com/)
-- [Старая и полезная обучалка, которая была безумна актуальна во времена Few shot](https://learnprompting.org/docs/category/-basic-applications)
-
+- [500-Best-ChatGPT-Prompts](https://vaulted-polonium-23c.notion.site/500-Best-ChatGPT-Prompts-63ef8a04a63c476ba306e1ec9a9b91c0)
+	*Бесплатная подборка из 500 затравок на все случаи жизни*
+- [promptvibes.com](https://www.promptvibes.com/)
+	*Еще одна публичная база запросов*
+- [datafit.ai](https://datafit.ai/top-chatgpt-prompts)
+	*Top ChatGPT prompts - Unlock ChatGPT's abilities*
+- [learnprompting.org](https://learnprompting.org/docs/category/-basic-applications)
+	*Старая и полезная обучалка, которая была безумна актуальна во времена Few shot*
 
 ---
 
