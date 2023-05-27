@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "knowledge/Полезности.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e1547123990d031e",
@@ -143,11 +143,15 @@
   },
   "active": "8faf2ea3a0f592b2",
   "lastOpenFiles": [
+    "01 Сага - Рассказ.md",
+    "План курса.md",
+    "START.md",
+    "README.md",
+    "knowledge/Полезности.md",
     "knowledge/GPT-prompts.md",
     "knowledge/LLM.md",
     "knowledge/LLM-prompt-engineering.md",
     "knowledge/GPT-plugins.md",
-    "knowledge/Полезности.md",
     "knowledge/images.md",
     "--рассказ/Abraksas - raw02.md",
     "knowledge/Stable Diffusion.md",
@@ -165,10 +169,6 @@
     "knowledge/GPT-prompts-for-Audience-Building.md",
     "--in/LangChain - Подробное руководство.md",
     "knowledge/LLM-дообучение.md",
-    "knowledge/GPT-регистрация.md",
-    "knowledge/Disclaimer.md",
-    "--in/aiacademyme.md",
-    "knowledge/LLM-лицензии.md",
     "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
 }
