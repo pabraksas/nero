@@ -9,8 +9,9 @@ login: ganyweki@finews.biz
 psswd: ganyweki@finews.biz
 
 ---
-gdpupyi943@tmail3.com
-gdpupyi943@tmail3.com
+login: gdpupyi943@tmail3.com
+psswd:gdpupyi943@tmail3.com
+
 ---
 oewbzcm781@dailynewses.com
 oewbzcm781@dailynewses.com
