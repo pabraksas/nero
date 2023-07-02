@@ -34,9 +34,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "ae678ee3b522866a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -110,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "--in/создание своего курса для ChatGpt.md",
+                    "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -133,7 +146,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "--in/создание своего курса для ChatGpt.md"
+                    "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md"
                   }
                 }
               }
@@ -157,7 +170,7 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "61b86636c19c9872",
+      "active": "ae678ee3b522866a",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "--media/--attachments",

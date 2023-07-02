@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae678ee3b522866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--in/создание своего курса для ChatGpt.md",
+                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--in/создание своего курса для ChatGpt.md"
+                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md"
               }
             }
           }
@@ -155,10 +168,11 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "643b057707ac1b0a",
+  "active": "ae678ee3b522866a",
   "lastOpenFiles": [
-    "knowledge/GPT-plugins.md",
     "--in/создание своего курса для ChatGpt.md",
+    "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+    "knowledge/GPT-plugins.md",
     "knowledge/LLM-дообучение.md",
     "knowledge/LLM-prompt-engineering.md",
     "--media/--attachments/ChatGPT.Prompts.Mastering.pdf",
@@ -183,7 +197,6 @@
     "--рассказ/Abraksas - raw02.md",
     "--рассказ/Abraksas - raw01.md",
     "knowledge/Kandinsky.md",
-    "--in/PDF-GPT.md",
     "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
 }
