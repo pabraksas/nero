@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+                "file": "План курса.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+                "file": "План курса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--in/10 промтов ChatGPT для повышения вашей продуктивности.md"
+                "file": "План курса.md"
               }
             }
           }
@@ -170,8 +170,13 @@
   },
   "active": "ae678ee3b522866a",
   "lastOpenFiles": [
-    "--in/создание своего курса для ChatGpt.md",
+    "README.md",
+    "START.md",
+    "SUMMARY-example.md",
     "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
+    "SUMMARY.md",
+    "SUMMARY.md​",
+    "--in/создание своего курса для ChatGpt.md",
     "knowledge/GPT-plugins.md",
     "knowledge/LLM-дообучение.md",
     "knowledge/LLM-prompt-engineering.md",
@@ -191,12 +196,8 @@
     "knowledge/GPT-prompts.md",
     "01 Сага - Рассказ.md",
     "План курса.md",
-    "START.md",
-    "README.md",
     "knowledge/images.md",
     "--рассказ/Abraksas - raw02.md",
-    "--рассказ/Abraksas - raw01.md",
-    "knowledge/Kandinsky.md",
     "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
   ]
 }
