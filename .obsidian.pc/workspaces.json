@@ -6,50 +6,18 @@
         "type": "split",
         "children": [
           {
-            "id": "1e4a2c9a0823b5d1",
+            "id": "415019ff40d30186",
             "type": "tabs",
             "children": [
               {
-                "id": "2a9dfb7d360f3130",
+                "id": "8e7b45f34579cc47",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "knowledge/GPT-plugins.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "643b057707ac1b0a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "--in/создание своего курса для ChatGpt.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ae678ee3b522866a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "План курса.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -123,7 +91,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "План курса.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -145,9 +112,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "План курса.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -170,11 +135,9 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "ae678ee3b522866a",
+      "active": "61b86636c19c9872",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "--media/--attachments"
-        ]
+        "explorerFoldState": []
       }
     }
   },
