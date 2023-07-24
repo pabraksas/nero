@@ -224,6 +224,8 @@ dist
 .obsidian.*/backlink.json
 .obsidian.*/app.json
 
+.obsidian.*/plugins/obsidian-trello/data.json
+
 .trash/
 
 .stfolder/
