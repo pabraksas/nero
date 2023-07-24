@@ -13,8 +13,13 @@
                 "id": "8e7b45f34579cc47",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
               }
             ]
@@ -91,6 +96,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "README.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -112,7 +118,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "README.md"
+                  }
                 }
               }
             ]

@@ -11,8 +11,13 @@
             "id": "8e7b45f34579cc47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -135,6 +143,17 @@
   },
   "active": "8e7b45f34579cc47",
   "lastOpenFiles": [
+    "src/gitbook/utils/nodes.js",
+    "src/gitbook/utils",
+    "src/gitbook/summary.js",
+    "src/gitbook/rename.js",
+    "src/gitbook/obsidian.js",
+    "src/gitbook/index-project.js",
+    "src/gitbook/copy.js",
+    "src/settings.json",
+    "src/package.json",
+    "src/package-lock.json",
+    "src/gitbook.js",
     "conflict-files-obsidian-git.md",
     "knowledge/GPT-plugins.md",
     "--in/создание своего курса для ChatGpt.md",
@@ -144,10 +163,8 @@
     "SUMMARY-example.md",
     "--in/10 промтов ChatGPT для повышения вашей продуктивности.md",
     "SUMMARY.md",
-    "SUMMARY.md​",
     "knowledge/LLM-дообучение.md",
     "knowledge/LLM-prompt-engineering.md",
-    "--media/--attachments/ChatGPT.Prompts.Mastering.pdf",
     "knowledge/GPT-рекомендации.md",
     "knowledge/Полезности.md",
     "--in/chatGPT.accounts.md",
@@ -161,8 +178,6 @@
     "knowledge/Stable Diffusion.md",
     "--рассказ/Abraksas - raw04.md",
     "knowledge/GPT-prompts.md",
-    "01 Сага - Рассказ.md",
-    "knowledge/images.md",
-    "--media/--attachments/Что.делает.ChatGPT.и.почему.это.работает.pdf"
+    "01 Сага - Рассказ.md"
   ]
 }
