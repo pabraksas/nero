@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/pabraksas/nero.git"
   },
-  "author": "@pabraxaz",
+  "author": "@pabraksas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pabraksas/neroissues"
+    "url": "https://github.com/pabraksas/nero/issues"
   },
   "homepage": "https://github.com/pabraksas/nero#readme",
   "dependencies": {
