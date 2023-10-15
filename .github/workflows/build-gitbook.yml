@@ -2,7 +2,7 @@ name: Build GitBook
 on:
   push:
     branches:
-      - main
+      - gitbook
   workflow_dispatch:
     inputs:
       repo:
@@ -23,7 +23,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 12.x
+          node-version: 18.x
 
       - name: Clone Obsidian vault
         if: github.event.inputs.repo != null
