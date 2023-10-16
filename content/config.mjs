@@ -3,7 +3,7 @@ const config = {
     description: "Дом Веры Валериан Борисыча",
     author: "Валериан Борисыч",
     logo: "/images/logo.svg",
-    domain: "https://john.app/",
+    domain: "https://neronki.vercel.app/",
     // links to the pages you want to link to in the navbar and in the footer
     navLinks: [{ href: "/about", name: "About" }],
 

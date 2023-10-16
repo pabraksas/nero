@@ -1,5 +1,5 @@
 {
-  "name": "flowershow",
+  "name": "Neronki",
   "version": "2.0.3",
   "scripts": {
     "dev": "npm run generate && next dev",

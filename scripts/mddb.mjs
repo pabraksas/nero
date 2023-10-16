@@ -8,7 +8,7 @@ export default async function mddb() {
   const mddb = await clientPromise;
 
   await mddb.indexFolder({
-    folderPath: "./content",
+    folderPath: "../content",
     ignorePatterns: ignorePatterns,
   });
 

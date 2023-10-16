@@ -33,7 +33,7 @@ export default async function search() {
     );
 
   if (config?.search?.provider === "kbar") {
-    writeFileSync("public/search.json", JSON.stringify(coreContent));
+    writeFileSync("../public/search.json", JSON.stringify(coreContent));
     console.log("Local search index generated...");
   }
   return;

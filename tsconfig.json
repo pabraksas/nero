@@ -2,15 +2,25 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@portaljs/core": ["node_modules/@portaljs/core/src"],
+      "@portaljs/core": [
+        "node_modules/@portaljs/core/src"
+      ],
       "@portaljs/remark-callouts": [
         "node_modules/@portaljs/remark-callouts/src"
       ],
-      "@portaljs/remark-embed": ["node_modules/@portaljs/remark-embed/src"],
-      "@/*": ["./*"]
+      "@portaljs/remark-embed": [
+        "node_modules/@portaljs/remark-embed/src"
+      ],
+      "@/*": [
+        "./*"
+      ]
     },
     "target": "es2020",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,
@@ -24,6 +34,17 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "include": ["types.d.ts", "next-env.d.ts", "**/*.tsx", "**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": [
+    "types.d.ts",
+    "next-env.d.ts",
+    "**/*.tsx",
+    "**/*.ts",
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+    "./layouts/**/*.{js,ts,jsx,tsx}",
+    "./content/**/*.{md,mdx}"
+  ],
+  "exclude": [
+    "node_modules", "dist"
+  ]
 }

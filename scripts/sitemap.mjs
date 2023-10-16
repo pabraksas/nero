@@ -50,7 +50,7 @@ export default async function sitemap() {
   });
 
   if (siteUrl) {
-    writeFileSync("public/sitemap.xml", formatted);
+    writeFileSync("../public/sitemap.xml", formatted);
     console.log("Sitemap generated...");
   }
 }
