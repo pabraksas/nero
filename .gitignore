@@ -8,13 +8,17 @@
 # ###
 .env
 .credentials
-.git/.credentials
 .secret*
 
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
+.DS_Store
+markdown.db
+node_modules/
+.next/
+out/
 
 venv/
 
@@ -201,29 +205,6 @@ dist
 .tern-port
 
 # ##############################################################################
-# ### Obsidian workspace info
-
-.obsidian/
-.obsidian/**/*
-
-.obsidian.*/themes/
-.obsidian.*/plugins/
-.obsidian.*/workspace
-.obsidian.*/snippets
-
-.obsidian.*/workspace.json
-.obsidian.*/workspaces.json
-.obsidian.*/workspace-mobile.json
-.obsidian.*/starred.json
-.obsidian.*/appearance.json
-.obsidian.*/graph.json
-.obsidian.*/global-search.json
-.obsidian.*/community-plugins.json
-.obsidian.*/core-plugins.json
-.obsidian.*/backlink.json
-.obsidian.*/app.json
-
-.obsidian.*/plugins/obsidian-trello/data.json
 
 .trash/
 
