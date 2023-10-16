@@ -1,1 +1,10 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "--in",
+  "attachmentFolderPath": "--media/--attachments",
+  "showInlineTitle": false
+}

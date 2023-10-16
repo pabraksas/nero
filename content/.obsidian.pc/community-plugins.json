@@ -22,5 +22,6 @@
   "runjs",
   "obsidian-shellcommands",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-smart-typography"
 ]

@@ -1,10 +1,10 @@
 {
   "autoReloadStartupModules": true,
-  "enableExternalLinks": false,
+  "enableExternalLinks": true,
   "errorNoticeTimeout": 0,
   "exposeInternalModules": true,
   "importTimeout": 10,
-  "language": "",
+  "language": "ru",
   "markdownCodeBlockLanguagesToLoad": [
     "JS",
     "TS",
